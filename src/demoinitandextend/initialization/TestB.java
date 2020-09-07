@@ -1,6 +1,6 @@
 package demoinitandextend.initialization;
 
-//测试TestA及TestB类的成员变量/造代码块等初始化及调用时机
+//此处测试TestA及TestB类的成员变量及造代码块等初始化及调用时机
 public class TestB {
 
     private TestA mA0 = new TestA("成员变量0");
@@ -13,6 +13,7 @@ public class TestB {
 
         }
     }
+
     private TestA mA1 = new TestA("成员变量1");
 
     public TestB(TestA mA0, TestA mA1) {
@@ -30,7 +31,6 @@ public class TestB {
     }
 
 
-
     public static void main(String[] args) {//若是main主函数中不包含任何代码，将不会打印信息，可用TestC尝试
         TestB b = new TestB();
         b.mA1.sayMyName();
@@ -45,10 +45,7 @@ public class TestB {
         TestA aa = new TestA();
 
 
-
     }
-
-
 
 
 }

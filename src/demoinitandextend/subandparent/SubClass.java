@@ -1,7 +1,7 @@
 package demoinitandextend.subandparent;
 
+//用于测试静态非静态初始化
 class Parent {
-
 
     /* 静态变量 */
     public static String p_StaticField = "父类--静态变量";

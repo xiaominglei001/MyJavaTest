@@ -51,6 +51,8 @@ class Cupboard {
     static Bowl bowl5 = new Bowl(5);
 }
 
+
+/*来自TIJ4测试代码，用于测试静态初始化顺序*/
 public class StaticInitialization {
     public static void main(String[] args) {
         System.out.println("Creating new Cupboard() in main");

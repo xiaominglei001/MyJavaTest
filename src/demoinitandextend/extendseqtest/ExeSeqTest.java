@@ -1,7 +1,7 @@
-package demoinitandextend.extendtest;
+package demoinitandextend.extendseqtest;
 
 /**
- * 函数执行顺序测试
+ * 继承情况下函数执行顺序测试
  * Created by 萌小Q on 2017/5/17 0017.
  */
 public class ExeSeqTest {
