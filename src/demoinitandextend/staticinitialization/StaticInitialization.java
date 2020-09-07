@@ -1,4 +1,4 @@
-package aamytest.staticinitialization;
+package demoinitandextend.staticinitialization;
 
 class Parent {
     static {

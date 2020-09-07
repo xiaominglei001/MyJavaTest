@@ -1,4 +1,4 @@
-package aamytest.extendtest;
+package demoinitandextend.extendtest;
 
 /**
  * 函数执行顺序测试

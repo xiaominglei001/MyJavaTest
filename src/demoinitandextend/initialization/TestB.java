@@ -1,4 +1,4 @@
-package aamytest.initialization;
+package demoinitandextend.initialization;
 
 //测试TestA及TestB类的成员变量/造代码块等初始化及调用时机
 public class TestB {

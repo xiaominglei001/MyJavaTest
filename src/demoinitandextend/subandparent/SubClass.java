@@ -1,4 +1,4 @@
-package aamytest.subandparent;
+package demoinitandextend.subandparent;
 
 class Parent {
 

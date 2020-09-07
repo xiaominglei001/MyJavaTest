@@ -1,4 +1,4 @@
-package aamytest.initialization;
+package demoinitandextend.initialization;
 
 
 public class TestC {
